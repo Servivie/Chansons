@@ -1,0 +1,14 @@
+{
+  "name": "ServiVie Chansons Lomé Togo",
+  "short_name": "ServiVie Chansons",
+  "description": "Crée tes propres chansons avec ta propre voix.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#120d0a",
+  "theme_color": "#120d0a",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
